@@ -51,7 +51,7 @@ The dashboard provides insights into **profit distribution, sales contribution, 
 ---
 
 ## 📸 Dashboard Preview
-Sales-and-profit-performance-dashboard/Sales and profit performance dashboard image.jpeg
+![Dashboard Preview](Sales and profit performance dashboard image.jpeg)
 
 ---
 
