@@ -1,65 +1,75 @@
-# Sales-and-profit-performance-dashboard
+# 📊 Tableau Sales & Profit Analysis Dashboard
 
-📊 #Tableau #DataAnalytics #DashboardProject
-#ProjectOverview
+## 📌 Project Overview
 
-Interactive Tableau dashboard analyzing regional performance, customer segments, and sales trends to generate actionable business insights.
+This project presents an **interactive Tableau dashboard** designed to analyze business performance across different regions and customer segments.
+The dashboard provides insights into **profit distribution, sales contribution, and order trends**, helping stakeholders make data-driven decisions.
 
-#KeyObjectives
+---
 
-#ProfitAnalysis #SalesInsights #CustomerSegmentation #TrendAnalysis
+## 🎯 Objectives
 
-Analyze profit across regions and segments
-Identify sales contribution by region
-Understand profit vs sales relationship
-Track monthly order trends
-#DashboardInsights
-#ProfitAnalysis
+* Analyze **profit across regions and customer segments**
+* Understand **sales contribution by region**
+* Identify the relationship between **sales and profit**
+* Track **monthly order quantity trends**
 
-#CorporateSegment #CentralRegion
+---
 
-Corporate segment drives highest profit
-Central region shows strong overall performance
-#SalesContribution
+## 📈 Dashboard Insights
 
-#RegionalAnalysis
+### 🔹 Profit by Region & Customer Segment
 
-Central leads in sales contribution
-West and East follow
-South has growth potential
-#ProfitVsSales
+* The **Corporate segment** contributes the highest profit across most regions
+* The **Central region** shows strong performance across all segments
+* Variation in segment performance highlights targeted growth opportunities
 
-#Correlation #Outliers
+### 🔹 Sales Contribution by Region
 
-Strong positive correlation
-Some high sales with low profit → inefficiencies
-#MonthlyTrends
+* **Central region** leads in total sales contribution
+* Followed by **West and East regions**
+* **South region** contributes the least, indicating potential for expansion
 
-#Seasonality #OrderAnalysis
+### 🔹 Profit vs Sales Analysis
 
-Peak months: May, September
-Low months: February, June, November
-#TechStack
+* Positive correlation between **sales and profit**
+* Some outliers indicate **high sales but low profit**, suggesting cost inefficiencies
 
-#Tableau #Excel #DataVisualization
+### 🔹 Monthly Order Trends
 
-#ProjectStructure
-Data #Dashboard #Images #README  
+* Peak order volume observed in **May and September**
+* Slight dips in **February, June, and November**
+* Overall stable demand with moderate fluctuations
 
-#DashboardPreview
+---
+
+## 🛠️ Tools & Technologies Used
+
+* **Tableau** – Data visualization & dashboard creation
+* **Excel / CSV Dataset** – Data source
+
+---
+
+## 📸 Dashboard Preview
+
+*(Add your screenshot here by uploading it to the repo and linking it below)*
+
+```
 Sales and profit performance dashboard image.jpeg
+```
 
+---
 
+## 🚀 Key Learnings
 
+* Improved skills in **data visualization and storytelling**
+* Learned how to analyze **multi-dimensional business data**
+* Gained experience in building **interactive dashboards in Tableau**
 
+---
 
-#KeyLearnings
+## 📬 Contact
 
-#DataStorytelling #BusinessInsights #Analytics
+If you have any feedback or suggestions, feel free to connect with me!
 
-Built interactive dashboards
-Improved analytical thinking
-Learned data-driven decision making
-#Contact
-
-#OpenToWork #DataAnalyst #FeedbackWelcome
+---
